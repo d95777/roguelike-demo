@@ -1,0 +1,62 @@
+{
+  "fire": {
+    "path": "res://assets/effects/fire.png",
+    "frames": 10,
+    "fps": 30,
+    "cell": 256,
+    "columns": 8,
+    "duration": 0.3333333333333333,
+    "source": "脚本生成的办公室风格序列帧（扁平卡通，粗描边）",
+    "source_version": "generated",
+    "conversion": "PIL 绘制，256 像素格，8 列，与原图集规格一致",
+    "anchor": [
+      56,
+      128
+    ]
+  },
+  "thunder": {
+    "path": "res://assets/effects/thunder.png",
+    "frames": 10,
+    "fps": 30,
+    "cell": 256,
+    "columns": 8,
+    "duration": 0.3333333333333333,
+    "source": "脚本生成的办公室风格序列帧（扁平卡通，粗描边）",
+    "source_version": "generated",
+    "conversion": "PIL 绘制，256 像素格，8 列，与原图集规格一致",
+    "anchor": [
+      128,
+      128
+    ]
+  },
+  "slash": {
+    "path": "res://assets/effects/slash.png",
+    "frames": 10,
+    "fps": 30,
+    "cell": 256,
+    "columns": 8,
+    "duration": 0.3333333333333333,
+    "source": "脚本生成的办公室风格序列帧（扁平卡通，粗描边）",
+    "source_version": "generated",
+    "conversion": "PIL 绘制，256 像素格，8 列，与原图集规格一致",
+    "anchor": [
+      128,
+      128
+    ]
+  },
+  "impact": {
+    "path": "res://assets/effects/impact.png",
+    "frames": 15,
+    "fps": 30,
+    "cell": 256,
+    "columns": 8,
+    "duration": 0.5,
+    "source": "脚本生成的办公室风格序列帧（扁平卡通，粗描边）",
+    "source_version": "generated",
+    "conversion": "PIL 绘制，256 像素格，8 列，与原图集规格一致",
+    "anchor": [
+      128,
+      128
+    ]
+  }
+}

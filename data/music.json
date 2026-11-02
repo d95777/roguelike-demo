@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "path": "res://assets/audio/v2/bgm_menu_01.ogg",
+    "gain_db": -12
+  },
+  "battle": {
+    "path": "res://assets/audio/v2/bgm_battle_01.ogg",
+    "gain_db": -12
+  },
+  "boss": {
+    "path": "res://assets/audio/v2/bgm_boss_01.ogg",
+    "gain_db": -12
+  }
+}

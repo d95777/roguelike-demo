@@ -1,0 +1,332 @@
+{
+  "swing_light": {
+    "group": "attack",
+    "cooldown": 0.075,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/swing_light_01.wav",
+        "gain_db": -5,
+        "duration": 0.076,
+        "peak": 0.6683
+      },
+      {
+        "path": "res://assets/audio/v2/swing_light_02.wav",
+        "gain_db": -5,
+        "duration": 0.104,
+        "peak": 0.6683
+      }
+    ]
+  },
+  "swing_blade": {
+    "group": "attack",
+    "cooldown": 0.075,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/swing_blade_01.wav",
+        "gain_db": -6,
+        "duration": 0.187,
+        "peak": 0.6683
+      },
+      {
+        "path": "res://assets/audio/v2/swing_blade_02.wav",
+        "gain_db": -6,
+        "duration": 0.197,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "swing_paper": {
+    "group": "attack",
+    "cooldown": 0.09,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/swing_paper_01.wav",
+        "gain_db": -7,
+        "duration": 0.488,
+        "peak": 0.49
+      },
+      {
+        "path": "res://assets/audio/v2/swing_paper_02.wav",
+        "gain_db": -7,
+        "duration": 0.231,
+        "peak": 0.5913
+      }
+    ]
+  },
+  "stapler": {
+    "group": "attack",
+    "cooldown": 0.075,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/stapler_01.wav",
+        "gain_db": -4,
+        "duration": 0.22,
+        "peak": 0.6684
+      },
+      {
+        "path": "res://assets/audio/v2/stapler_02.wav",
+        "gain_db": -4,
+        "duration": 0.22,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "calc": {
+    "group": "attack",
+    "cooldown": 0.09,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/calc_boom_01.wav",
+        "gain_db": -8,
+        "duration": 0.45,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "zap": {
+    "group": "attack",
+    "cooldown": 0.09,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/zap_01.wav",
+        "gain_db": -8,
+        "duration": 0.4,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "hit": {
+    "group": "impact",
+    "cooldown": 0.07,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/hit_flesh_01.wav",
+        "gain_db": -5,
+        "duration": 0.118,
+        "peak": 0.3548
+      },
+      {
+        "path": "res://assets/audio/v2/hit_flesh_02.wav",
+        "gain_db": -5,
+        "duration": 0.183,
+        "peak": 0.3548
+      },
+      {
+        "path": "res://assets/audio/v2/hit_flesh_03.wav",
+        "gain_db": -5,
+        "duration": 0.14,
+        "peak": 0.3548
+      }
+    ]
+  },
+  "crit": {
+    "group": "impact",
+    "cooldown": 0.09,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/hit_crit_01.wav",
+        "gain_db": -6,
+        "duration": 0.457,
+        "peak": 0.6683
+      }
+    ]
+  },
+  "die": {
+    "group": "death",
+    "cooldown": 0.06,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/enemy_die_01.wav",
+        "gain_db": -9,
+        "duration": 0.5,
+        "peak": 0.619
+      }
+    ]
+  },
+  "stun": {
+    "group": "impact",
+    "cooldown": 0.2,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/stun_01.wav",
+        "gain_db": -12,
+        "duration": 0.4,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "hurt": {
+    "group": "player",
+    "cooldown": 0.2,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/player_hurt_01.wav",
+        "gain_db": -5,
+        "duration": 0.455,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "dash": {
+    "group": "player",
+    "cooldown": 0.15,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/dash_01.wav",
+        "gain_db": -6,
+        "duration": 0.146,
+        "peak": 0.6683
+      }
+    ]
+  },
+  "heal": {
+    "group": "ui",
+    "cooldown": 0.2,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/pickup_heal_01.wav",
+        "gain_db": -7,
+        "duration": 1.167,
+        "peak": 0.4976
+      }
+    ]
+  },
+  "coin": {
+    "group": "pickup",
+    "cooldown": 0.09,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/pickup_coin_01.wav",
+        "gain_db": -14,
+        "duration": 0.32,
+        "peak": 0.2358
+      },
+      {
+        "path": "res://assets/audio/v2/pickup_coin_02.wav",
+        "gain_db": -14,
+        "duration": 0.338,
+        "peak": 0.2919
+      }
+    ]
+  },
+  "upgrade": {
+    "group": "ui",
+    "cooldown": 0.2,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/level_up_01.wav",
+        "gain_db": -6,
+        "duration": 0.444,
+        "peak": 0.5992
+      }
+    ]
+  },
+  "purchase": {
+    "group": "ui",
+    "cooldown": 0.08,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/purchase_01.wav",
+        "gain_db": -6,
+        "duration": 0.35,
+        "peak": 0.4652
+      }
+    ]
+  },
+  "reroll": {
+    "group": "ui",
+    "cooldown": 0.08,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/reroll_01.wav",
+        "gain_db": -9,
+        "duration": 0.28,
+        "peak": 0.5012
+      }
+    ]
+  },
+  "click": {
+    "group": "ui",
+    "cooldown": 0.04,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/ui_click_01.wav",
+        "gain_db": -2,
+        "duration": 0.1,
+        "peak": 0.1695
+      }
+    ]
+  },
+  "hover": {
+    "group": "ui",
+    "cooldown": 0.05,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/ui_hover_01.wav",
+        "gain_db": 0,
+        "duration": 0.227,
+        "peak": 0.0876
+      }
+    ]
+  },
+  "wave_start": {
+    "group": "alert",
+    "cooldown": 0.5,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/wave_start_01.wav",
+        "gain_db": -6,
+        "duration": 0.301,
+        "peak": 0.4285
+      }
+    ]
+  },
+  "wave_clear": {
+    "group": "ui",
+    "cooldown": 0.5,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/wave_clear_01.wav",
+        "gain_db": -6,
+        "duration": 0.7,
+        "peak": 0.6055
+      }
+    ]
+  },
+  "boss": {
+    "group": "alert",
+    "cooldown": 1.0,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/boss_warning_01.wav",
+        "gain_db": -7,
+        "duration": 1.707,
+        "peak": 0.6684
+      }
+    ]
+  },
+  "victory": {
+    "group": "ui",
+    "cooldown": 1.0,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/victory_01.wav",
+        "gain_db": -5,
+        "duration": 1.7,
+        "peak": 0.5936
+      }
+    ]
+  },
+  "gameover": {
+    "group": "ui",
+    "cooldown": 1.0,
+    "variants": [
+      {
+        "path": "res://assets/audio/v2/gameover_01.wav",
+        "gain_db": -5,
+        "duration": 1.758,
+        "peak": 0.5685
+      }
+    ]
+  }
+}

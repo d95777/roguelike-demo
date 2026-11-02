@@ -1,0 +1,206 @@
+{
+  "Office_Stapler": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Mouse": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Printer": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_BobaCup": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Plant": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Cabinet": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_StickyNote": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Copier": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Intern": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Accountant": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Office_Guard": {
+    "static": true,
+    "animations": [],
+    "native_facing": 1
+  },
+  "Character_001": {
+    "animations": [
+      "unit_attack",
+      "unit_attack_ax",
+      "unit_attack_magic",
+      "unit_attack_spear",
+      "unit_attack_bow",
+      "unit_attack_fist",
+      "unit_attack_gun",
+      "unit_damage",
+      "unit_dead",
+      "unit_no_shadow",
+      "unit_p_skill",
+      "unit_run",
+      "unit_skill",
+      "unit_skill_hit",
+      "unit_wait",
+      "unit_walk",
+      "unit_win",
+      "workbench_local_face"
+    ],
+    "native_facing": -1
+  },
+  "Character_002": {
+    "animations": [
+      "unit_attack",
+      "unit_attack_ax",
+      "unit_attack_magic",
+      "unit_attack_spear",
+      "unit_attack_bow",
+      "unit_attack_fist",
+      "unit_attack_gun",
+      "unit_damage",
+      "unit_dead",
+      "unit_no_shadow",
+      "unit_p_skill",
+      "unit_run",
+      "unit_skill",
+      "unit_skill_hit",
+      "unit_wait",
+      "unit_walk",
+      "unit_win",
+      "workbench_local_face"
+    ],
+    "native_facing": -1
+  },
+  "Character_003": {
+    "animations": [
+      "unit_attack",
+      "unit_attack_ax",
+      "unit_attack_magic",
+      "unit_attack_spear",
+      "unit_attack_bow",
+      "unit_attack_fist",
+      "unit_attack_gun",
+      "unit_damage",
+      "unit_dead",
+      "unit_no_shadow",
+      "unit_p_skill",
+      "unit_run",
+      "unit_skill",
+      "unit_skill_hit",
+      "unit_wait",
+      "unit_walk",
+      "unit_win",
+      "workbench_local_face",
+      "unit_spear_dash"
+    ],
+    "native_facing": -1
+  },
+  "Monster_BambooBrawler": {
+    "animations": [
+      "idle",
+      "attack",
+      "hit",
+      "death",
+      "move"
+    ],
+    "native_facing": -1
+  },
+  "Monster_Bee": {
+    "animations": [
+      "fly",
+      "sting",
+      "death"
+    ],
+    "native_facing": -1
+  },
+  "Monster_BlueFrostBat": {
+    "animations": [
+      "atk1",
+      "atk2",
+      "dead",
+      "default_pose",
+      "hit",
+      "idle"
+    ],
+    "native_facing": -1
+  },
+  "Monster_AlchemistFurnace": {
+    "animations": [
+      "idle",
+      "move",
+      "attack",
+      "hurt",
+      "death",
+      "setup"
+    ],
+    "native_facing": 1
+  },
+  "Monster_CandleMoth": {
+    "animations": [
+      "idle",
+      "attack",
+      "hit",
+      "death",
+      "move"
+    ],
+    "native_facing": -1
+  },
+  "Monster_TreeSpirit": {
+    "animations": [
+      "Attack",
+      "Die",
+      "Idle",
+      "Walk"
+    ],
+    "native_facing": -1
+  },
+  "Monster_CrystalCrab": {
+    "animations": [
+      "idle",
+      "move",
+      "attack",
+      "death",
+      "hit"
+    ],
+    "native_facing": 1
+  },
+  "Monster_TalismanWraith": {
+    "animations": [
+      "idle",
+      "attack",
+      "hit",
+      "death",
+      "move"
+    ],
+    "native_facing": -1
+  }
+}

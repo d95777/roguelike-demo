@@ -1,0 +1,16 @@
+# 上传游戏代码、配置与 assets/ 美术音频;原始素材、发行包、验证截图、工具脚本等不提交
+/*
+!/.gitignore
+!/README.md
+!/project.godot
+!/RogueDemo.csproj
+!/RogueDemo.sln
+!/NuGet.config
+!/export_presets.cfg
+!/default_bus_layout.tres
+!/icon.svg
+!/src/
+!/data/
+!/scenes/
+!/assets/
+/assets/**/*.tmp
