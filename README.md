@@ -19,3 +19,11 @@ godot --path .
 ```
 
 测试:`godot --headless --path . -- --test --selftest`(另有 `--mediatest`、`--facingtest`、`--uitest`、`--balancetest`)。
+
+## 许可
+
+- 代码:[MIT](LICENSE),可自由使用、修改、商用。
+- 美术图片:CC BY 4.0,可自由使用、修改、商用,需署名作者 d95777。
+- 音效与背景音乐:CC0,无需署名。
+
+详见 [assets/LICENSE.md](assets/LICENSE.md)。
